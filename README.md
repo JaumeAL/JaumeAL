@@ -1,7 +1,8 @@
 # 💫 About Me:
 Acerca de mí<br>•  Desde : Palma de Mallorca (España)<br>
 •  🎓 <b>Estudiante : </b> Estudiando Desarrollo de Aplicaciones Multiplataforma (DAM)<br>
-•  🏋️‍♂️ <b>Edad : </b> 18 años<br>•  💻 Apasionado por : la informática y explorar nuevas tecnologías.<br>
+•  🏋️‍♂️ <b>Edad : </b> 18 años<br>
+•  💻 <b>Apasionado por : </b> la informática y explorar nuevas tecnologías.<br>
 •  🚀 <b>Objetivo : </b> Comenzar mi carrera en programación y trabajar para una empresa tecnológica de primer nivel.<br>
 •  🧑‍💻 <b>Actualmente me estoy centrando en : </b> Ejercicios en Java, Python, HTML, CSS y bases de datos.<br>
 •  🤝 <b>Abierto a : </b> Conectarse, colaborar y aprender de otros.
