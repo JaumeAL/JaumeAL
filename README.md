@@ -1,5 +1,6 @@
 # 💫 About Me:
-Acerca de mí<br>•  Desde : Palma de Mallorca (España)<br>
+Acerca de mí<br>
+•  🔻 <b> Desde : </b> Palma de Mallorca (España)<br>
 •  🎓 <b>Estudiante : </b> Estudiando Desarrollo de Aplicaciones Multiplataforma (DAM)<br>
 •  🏋️‍♂️ <b>Edad : </b> 18 años<br>
 •  💻 <b>Apasionado por : </b> la informática y explorar nuevas tecnologías.<br>
